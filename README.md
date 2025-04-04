@@ -61,8 +61,6 @@
   <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="12" />
-
-  <!-- Cloud (Azure, Google Cloud, Oracle) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
@@ -79,3 +77,13 @@
   🌈 <strong>YOLO</strong>: Because sometimes you just have to commit and push!<br>
   🤠 <strong>Quickdraw</strong>: For those lightning-fast merges or reviews.<br>
 </p>
+<h2 align="left">GitHub Stats</h2>
+
+<div align="center">
+<a href="https://github.com/Kensc19">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kensc19&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kensc19&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Kensc19"/>
+</a>
+</div>
+
+
